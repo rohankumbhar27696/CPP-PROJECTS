@@ -464,5 +464,5 @@ void game_on()
 
 void git_test()
 {
-	printf("FOR TESTING GIT....\n");
+	printf("FOR TESTING GIT.......\n");
 }
