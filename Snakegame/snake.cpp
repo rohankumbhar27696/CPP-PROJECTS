@@ -54,10 +54,12 @@ void print_head();
 void collect_coord();
 void border_check();
 void game_on();
-
+void git_test();
 
 int main()
 {
+
+
 	printf("opening snakeswarm.exe....\n");
 
 	
@@ -457,4 +459,10 @@ void game_on()
 			
 		}
 	}	
+}
+
+
+void git_test()
+{
+	printf("FOR TESTING GIT....\n");
 }
